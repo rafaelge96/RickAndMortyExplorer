@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rick and Morty Explorer</string>
+    <string name="request_error_message_dialog">Request error</string>
+    <string name="network_error_message_dialog">Network error</string>
+    <string name="detail_error_message_dialog">Can\'t show character</string>
+    <string name="accept_ok_dialog">OK</string>
+
+    <string name="detail_button">Back</string>
+    <string name="status_detail">Status: %1$s</string>
+    <string name="origin_detail">Origin: %1$s</string>
+    <string name="location_detail">Location: %1$s</string>
+    <string name="species_detail">Species: %1$s</string>
+    <string name="gender_detail">Gender:  %1$s</string>
+
+
+</resources>
